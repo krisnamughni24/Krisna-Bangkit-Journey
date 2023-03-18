@@ -1,2 +1,2 @@
 # Krisna-Bangkit-Journey
-Krisna Bangkit Journey wEBSITE
+[Krisna Bangkit Journey Website](https://krisnamughni24.github.io/Krisna-Bangkit-Journey/)
